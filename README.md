@@ -18,7 +18,7 @@
 ---
 
 ## 📸 Preview
-![Preview](preview.png)
+![Preview](code-typing-player.png)
 
 ---
 
