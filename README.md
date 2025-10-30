@@ -2,6 +2,9 @@
 
 **PouyaWeb Code Typing Player** is an interactive, realistic code-typing demo created by **[PouyaWeb](https://pouyaweb.io)** for tutorials, documentation and product walkthroughs.
 
+[![Visit PouyaWeb.io](https://img.shields.io/badge/Visit-PouyaWeb.io-777FFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pouyaweb.io)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-5b5fff?style=for-the-badge&logo=html5&logoColor=white)](https://pouyaweb.io/code-typing-player/)
+[![Made by PouyaWeb](https://img.shields.io/badge/Made%20by-PouyaWeb-1f1f1f?style=for-the-badge&logo=github)](https://github.com/pouyawebio)
 > This repository is a **project overview** only.  
 > The live demo and commercial usage are hosted on pouyaweb.io.
 
